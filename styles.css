@@ -1,0 +1,64 @@
+.red {
+    color: red;
+}
+
+.green {
+ color:green;   
+}
+.limegreen{
+    color:greenyellow;
+    }
+.purple{
+    color:purple;
+    }
+.blue{
+    color:blue;
+    }
+.orange{
+    color:orange;
+    }
+.yellow{
+    color:yellow;
+    }
+.brown{
+    color:brown;
+    }
+.grey{
+    color:darkgrey;
+    }
+.run{
+    color:grey;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+/****** DO NOT CHANGE THE STYLES BELOW THIS ******/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    margin: 0;
+    display: inline-block;
+    font-size: 3em;
+    padding: 0.25em;
+}
